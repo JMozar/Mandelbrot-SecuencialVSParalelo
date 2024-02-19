@@ -5,6 +5,7 @@
 #include <windows.h>
 #include <sstream>
 
+//Comentario
 const int WIDTH = 600;
 const int HEIGHT = 600;
 const int MAX_ITERATIONS = 10000;
